@@ -1,11 +1,9 @@
 
-  # Olá! 👋
+### Olá, eu sou o Diego! 👋
   
- Eu sou o Diego, web designer, desenvolvedor front-end, empreendedor digital e investidor entusiasta.
+Web designer, desenvolvedor front-end, empreendedor digital e investidor entusiasta.
 
-## 📖 Conhecimentos
-
-### :computer: Programação
+<b>:computer: Tecnologias</b><br><br>
 
 <div style='display: flex;'>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,7 +20,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-### :wrench: Ferramentas
+<b>:wrench: Ferramentas</b><br><br>
 <div style='display: flex;'>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
@@ -40,7 +38,7 @@
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 </div>
  
-## 📈 GitHub Status 
+<b>📈 GitHub Status</b><br><br>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoscky&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 
