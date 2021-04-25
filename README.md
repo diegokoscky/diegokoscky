@@ -1,9 +1,9 @@
 
 ### Olá, eu sou o Diego! 👋
   
-Web designer, desenvolvedor front-end, empreendedor digital e investidor entusiasta.
+Web designer, desenvolvedor front-end, empreendedor digital e investidor entusiasta.<br><br>
 
-<b>:computer: Tecnologias</b><br><br>
+<b>:computer: Tecnologias</b><br>
 
 <div style='display: flex;'>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,8 @@ Web designer, desenvolvedor front-end, empreendedor digital e investidor entusia
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<b>:wrench: Ferramentas</b><br><br>
+<br><br>
+<b>:wrench: Ferramentas</b><br>
 <div style='display: flex;'>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
@@ -38,7 +39,7 @@ Web designer, desenvolvedor front-end, empreendedor digital e investidor entusia
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 </div>
  
-<b>📈 GitHub Status</b><br><br>
+<br><br><b>📈 GitHub Status</b><br>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoscky&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 
