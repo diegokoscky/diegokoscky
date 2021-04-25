@@ -30,9 +30,9 @@ Web designer, desenvolvedor front-end, empreendedor digital e investidor entusia
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
